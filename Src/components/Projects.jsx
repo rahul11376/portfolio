@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import Project1 from "/src/assets/photo.jpg";
+import Project1 from "Src/assests/photo.jpg";
 
 const projectImages = [
   { img: Project1, title: "Project 2" },
