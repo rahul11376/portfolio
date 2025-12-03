@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: #0d1117;
+  color: white;
+}
+
+section {
+  padding: 100px 10%;
+}
+
+h1, h2, h3 {
+  margin: 0 0 10px 0;
+}
+
+p {
+  opacity: 0.85;
+  line-height: 1.6;
+}
+
+.btn {
+  background: #58a6ff;
+  padding: 12px 24px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  color: #000;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.type {
+  color: #58a6ff;
+}
+
+.card {
+  background: #161b22;
+  padding: 22px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}

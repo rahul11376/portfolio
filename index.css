@@ -1,0 +1,51 @@
+/* Remove default margin & padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Smooth font */
+body {
+  font-family: "Poppins", sans-serif;
+  background: #0d1117;
+  color: white;
+}
+
+/* Scroll smooth */
+html {
+  scroll-behavior: smooth;
+}
+
+/* General styling */
+section {
+  padding: 100px 10%;
+}
+
+h1, h2, h3 {
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+p {
+  opacity: 0.85;
+  line-height: 1.6;
+}
+
+.btn {
+  background: #58a6ff;
+  color: black;
+  padding: 12px 24px;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 8px;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.card {
+  background: #161b22;
+  padding: 22px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
